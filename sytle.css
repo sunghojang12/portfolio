@@ -27,7 +27,10 @@
     --weight-semi-bold: 600;
     --weight-regular: 400;
   }
-  
+  /* Universal tags */
+  *{
+    box-sizing: border-box
+  }
   /* Typography */
   
   h1 {
