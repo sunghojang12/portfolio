@@ -17,3 +17,8 @@
 ### 찾아오는 길 
 <img width="925" alt="찾아오는길" src="https://user-images.githubusercontent.com/87559131/144540314-dd44294e-121a-4514-a49a-a60c20498122.PNG">
 
+### 코드
+
+
+<img width="1279" alt="코드화면1" src="https://user-images.githubusercontent.com/87559131/144540792-68f570e7-74b2-4417-ab48-20d3bea398db.PNG">
+<img width="1279" alt="게시판 코드" src="https://user-images.githubusercontent.com/87559131/144540823-55c7a9a0-68fb-459b-ab32-33a957e426d9.PNG">
